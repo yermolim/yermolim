@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+📫 How to reach me:
+<ul>
+<li><b>linkedin</b>: https://www.linkedin.com/in/yermolim/</li>
+<li><b>telegram</b>: @yermolim</li>
+<li><b>skype</b>: yermolim</li>
+</ul>
+
+
 <!--
 **yermolim/yermolim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
